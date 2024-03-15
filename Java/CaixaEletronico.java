@@ -5,7 +5,7 @@ public class CaixaEletronico {
     static double saldo_atual = 1000.00;
 
     static void mostrar_saldo(double saldo) {
-        System.out.println("Seu saldo atual é: R$" + saldo); // formatar 2 casas
+        System.out.println("Seu saldo atual é: R$" + saldo);
     }
 
     static void menu(double saldo) {
